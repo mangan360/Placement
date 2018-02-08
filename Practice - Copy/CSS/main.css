@@ -1,0 +1,43 @@
+
+   
+   body {
+    font-family: Arial, serif;
+    height: 200px;
+    background: white; /* For browsers that do not support gradients */
+    background: linear-gradient(to right,white , grey); /* Standard syntax (must be last) */
+    
+   }
+   
+   .main {
+      
+      height: 100%;
+   }
+   
+
+   
+  
+   
+  
+   .card {
+      
+      color: black;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+   
+ .title {
+      
+      color: #000;
+      font-size: 30px;
+      font-family: Courier New, Courier, monospace ;
+      width: 0%;
+      font-weight: bold;
+     color: rgb(0, 114, 228);
+   }
+
+   
+ 
+   
+
+  
+   
+  
