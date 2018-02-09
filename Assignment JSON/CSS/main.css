@@ -1,0 +1,42 @@
+
+   
+   body {
+    font-family: Arial, serif;
+    height: 200px;
+    background: white; 
+    background: linear-gradient(to right,white , grey);
+    
+   }
+  .card {
+      
+      color: black;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+   
+ .title {
+      text-align: left; 
+      color: #000;
+      font-size: 17px;
+      font-family: Courier New, Courier, monospace ;
+      width: 100%;
+      font-weight: bold;
+     color: rgb(0, 114, 228);
+   }
+
+   .Array{
+       text-align: left;
+       color:rgb(73, 65, 65);
+       font-family: Courier New, Courier, monospace; 
+
+   }
+   .heading{
+       text-align: center;
+       font-weight: bold;
+
+   }
+ 
+   
+
+  
+   
+  
